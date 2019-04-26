@@ -53,7 +53,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
 	if($responseData->success) {
 
 		// Step 1 - Enter your email address below.
-		$email = 'you@domain.com';
+		$email = 'info@kirastudios.com';
 
 		// If the e-mail is not working, change the debug option to 2 | $debug = 2;
 		$debug = 0;

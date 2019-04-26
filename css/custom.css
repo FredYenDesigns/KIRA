@@ -1,1 +1,28 @@
 /* Add here all your CSS customizations */
+.readon {
+    background: #db2127;
+    border-radius: .25rem;
+    border-color: #db2127;
+    font-size: .8em !important;
+    text-transform: uppercase !important;
+    height: 3em;
+}
+
+.inputbox {
+    font-size: .8em !important;
+    text-transform: uppercase !important;
+    border-radius: .25rem;
+    border-color: rgba(0, 0, 0, 0.09);
+    height: 3em;
+    width: 20em;
+}
+
+.mc4wp-form-fields p {
+    margin: 0;
+}
+
+
+.pb-5, .py-5 {
+    padding-bottom: 2.5rem!important;
+    padding-top: 2.5rem!important;
+}
